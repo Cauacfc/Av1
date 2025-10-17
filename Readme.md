@@ -1,6 +1,6 @@
-<!-- Nome do aluno: Cauã Ferreira Carvalho -->
-
-Veiculo-Superclasse: Foi a base utilizada para a base de todos os veículos, com informações comuns (marca, modelo, quilometragem) e ações básicas (registrar manutenção, exibir informações gerais).
+ Nome do aluno: Cauã Ferreira Carvalho
+ 
+ Veiculo-Superclasse: Foi a base utilizada para a base de todos os veículos, com informações comuns (marca, modelo, quilometragem) e ações básicas (registrar manutenção, exibir informações gerais).
 
 CarroPasseio-Subclasse: Herdou de Veiculo e adiciona detalhes sobre os carros (número de portas, tipo de combustível). Tem ações específicas para calcular depreciação e exibe suas informações incluindo esses detalhes.
 
